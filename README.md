@@ -78,3 +78,17 @@ We welcome contributions from the community! If you'd like to contribute to this
    git clone https://github.com/your-username/ReinforcementLearningProjects.git
    cd ReinforcementLearningProjects
 
+
+### Contact
+
+```markdown
+## Contact
+
+If you have any questions, suggestions, or feedback, feel free to reach out:
+
+- **Email**: nithin@example.com
+- **GitHub Profile**: [nithin200417](https://github.com/nithin200417)
+
+For general inquiries or issues, you can also open an issue on this repository. 
+
+We look forward to hearing from you!
