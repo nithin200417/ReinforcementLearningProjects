@@ -61,7 +61,7 @@ To run a project, you need to navigate to the project's directory and execute th
 
 ### Jupyter Notebooks
 
-For Jupyter Notebooks, you can launch them using the following commands. Make sure you have Jupyter installed (`pip install jupyter`).
+For Jupyter Notebooks, you can launch them using commands. Make sure you have Jupyter installed (`pip install jupyter`).
 
 ### Contributing
 
