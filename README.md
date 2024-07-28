@@ -26,8 +26,7 @@ The repository is organized into the following projects:
 
 3. **[LunarLander](./LunarLander)**: Involves the LunarLander environment where the goal is to land a spacecraft on a designated landing pad. Techniques used include DQN and Proximal Policy Optimization (PPO).
 
-4. **[CustomEnv](./CustomEnv)**: Demonstrates how to create and train RL agents in a custom environment. Provides a template for users to define their own environments.
-
+4. **[A2CRoboarm](./A2CRoboarm)**: Demonstrates how to implement the Robotic arm function in the panda_gym environment which involves trainig and robotic arm to move towards an object and try picking things up with it based on A2C policy in Reinforcement Leanrning.
 5. **[GridWorld](./GridWorld)**: A grid-based environment where agents learn to navigate to a goal while avoiding obstacles. Includes implementations of Value Iteration and Policy Iteration.
 
 6. **[Atari](./Atari)**: Applies RL techniques to Atari 2600 games, featuring implementations of DQN and Experience Replay.
