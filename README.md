@@ -14,7 +14,7 @@ Welcome to the **Reinforcement Learning Projects** repository! This collection s
 
 ## Introduction
 
-Reinforcement Learning (RL) is a machine learning paradigm focused on training agents to make decisions by interacting with their environment to maximize cumulative rewards. This repository provides several projects that explore various RL techniques and algorithms, from classic methods to more advanced approaches. Whether you're new to RL or an experienced practitioner, these projects offer valuable insights and practical examples.
+Reinforcement learning is a framework for solving control tasks (also called decision problems) by building agents that learn from the environment by interacting with it through trial and error and receiving rewards (positive or negative) as unique feedback. This repository provides several projects that explore various RL techniques and algorithms, from classic methods to more advanced approaches. Whether you're new to RL or an experienced practitioner, these projects offer valuable insights and practical examples.
 
 ## Projects
 
