@@ -46,7 +46,7 @@ The repository is organized into the following projects:
 5. **[rlusingtransformershopper-half-cheetah.ipynb](./rlusingtransformershopper-half-cheetah.ipynb)**:
    This notebook explores the use of Transformers in reinforcement learning, specifically applied to the Half-Cheetah environment. It covers how Transformer architectures can be integrated with RL algorithms to enhance performance and learning efficiency. The project includes implementation details, training procedures, and evaluation of the RL agent using Transformer-based methods.
 
-7.**
+
 ## Installation
 
 To get started with the projects, follow these steps:
