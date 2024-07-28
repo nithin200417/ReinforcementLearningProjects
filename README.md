@@ -9,8 +9,7 @@ Welcome to the **Reinforcement Learning Projects** repository! This collection s
 3. [Installation](#installation)
 4. [Usage](#usage)
 5. [Contributing](#contributing)
-6. [License](#license)
-7. [Contact](#contact)
+6. [Contact](#contact)
 
 ## Introduction
 
@@ -55,3 +54,15 @@ To get started with the projects, follow these steps:
    ```bash
    git clone https://github.com/nithin200417/ReinforcementLearningProjects.git
    cd ReinforcementLearningProjects
+
+## Usage
+
+To run a project, you need to navigate to the project's directory and execute the relevant scripts or notebooks. Below are examples of how to use each project.
+
+### Jupyter Notebooks
+
+For Jupyter Notebooks, you can launch them using the following commands. Make sure you have Jupyter installed (`pip install jupyter`).
+
+1. **Copy of Frozen_lake&Taxi.ipynb**:
+   ```bash
+   jupyter notebook Copy\ of\ Frozen_lake\&Taxi.ipynb
