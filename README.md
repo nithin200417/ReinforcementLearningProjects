@@ -63,6 +63,18 @@ To run a project, you need to navigate to the project's directory and execute th
 
 For Jupyter Notebooks, you can launch them using the following commands. Make sure you have Jupyter installed (`pip install jupyter`).
 
-1. **Copy of Frozen_lake&Taxi.ipynb**:
+### Contributing
+
+```markdown
+## Contributing
+
+We welcome contributions from the community! If you'd like to contribute to this repository, please follow these steps:
+
+1. **Fork the Repository**:
+   Click the "Fork" button at the top-right corner of this repository to create a copy under your own GitHub account.
+
+2. **Clone Your Fork**:
    ```bash
-   jupyter notebook Copy\ of\ Frozen_lake\&Taxi.ipynb
+   git clone https://github.com/your-username/ReinforcementLearningProjects.git
+   cd ReinforcementLearningProjects
+
