@@ -78,8 +78,6 @@ We welcome contributions from the community! If you'd like to contribute to this
 
 ### Contact
 
-```markdown
-
 If you have any questions, suggestions, or feedback, feel free to reach out:
 
 - **Email**: naganithin2004@gmail.com
