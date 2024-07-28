@@ -65,9 +65,6 @@ For Jupyter Notebooks, you can launch them using commands. Make sure you have Ju
 
 ### Contributing
 
-```markdown
-## Contributing
-
 We welcome contributions from the community! If you'd like to contribute to this repository, please follow these steps:
 
 1. **Fork the Repository**:
