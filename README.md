@@ -31,6 +31,22 @@ The repository is organized into the following projects:
 
 6. **[Atari](./Atari)**: Applies RL techniques to Atari 2600 games, featuring implementations of DQN and Experience Replay.
 
+1. **[Copy of Frozen_lake&Taxi.ipynb](./Copy%20of%20Frozen_lake%26Taxi.ipynb)**:
+   This Jupyter Notebook demonstrates how to solve two classic RL environments: Frozen Lake and Taxi. The project covers the implementation of basic RL algorithms such as Q-learning and Policy Iteration to tackle these grid-based problems. It provides a step-by-step approach to understanding the dynamics of both environments and how RL algorithms can be applied to find optimal policies.
+
+2. **[SampleFactoryDoom.ipynb](./SampleFactoryDoom.ipynb)**:
+   This notebook explores reinforcement learning in the context of the Doom video game using the SampleFactory framework. It provides an implementation of RL algorithms designed for complex, high-dimensional environments. The project includes instructions on setting up the SampleFactory environment, training agents, and evaluating their performance in the Doom game scenarios.
+
+3. **[SnowballTarget&Pyramids.ipynb](./SnowballTarget%26Pyramids.ipynb)**:
+   This notebook showcases RL applications in custom environments: Snowball Target and Pyramids. It demonstrates how to create and train RL agents in these environments, which involve navigating obstacles and reaching goals. The project covers the implementation of RL algorithms like DQN and A3C to address challenges specific to these environments.
+
+4. **[ppo.py](./ppo.py)**:
+   This script provides an implementation of the Proximal Policy Optimization (PPO) algorithm, a popular RL method known for its stability and performance. The code includes the PPO algorithm details, such as clipping and policy update mechanisms, and how to apply it to various environments. The script is designed for users who want to understand and utilize PPO in their RL experiments.
+
+5. **[rlusingtransformershopper-half-cheetah.ipynb](./rlusingtransformershopper-half-cheetah.ipynb)**:
+   This notebook explores the use of Transformers in reinforcement learning, specifically applied to the Half-Cheetah environment. It covers how Transformer architectures can be integrated with RL algorithms to enhance performance and learning efficiency. The project includes implementation details, training procedures, and evaluation of the RL agent using Transformer-based methods.
+
+7.**
 ## Installation
 
 To get started with the projects, follow these steps:
