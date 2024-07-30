@@ -1,6 +1,6 @@
 # Reinforcement Learning Projects
 
-Welcome to the **Reinforcement Learning Projects** repository! This collection showcases various experiments and implementations in the field of reinforcement learning (RL). Each project in this repository demonstrates different RL algorithms and techniques applied to diverse problem domains.
+Welcome to the **Reinforcement Learning Projects** repository! This collection showcases various experiments and implementations in the field of reinforcement learning (RL). Each project in this repository demonstrates different RL algorithms and techniques applied to diverse problem domains. These are the course work for the DeepRL course on #huggingface.co
 
 ## Table of Contents
 
